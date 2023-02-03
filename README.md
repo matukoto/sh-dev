@@ -2,3 +2,5 @@
 
 個人で学習した内容を毎日コミットするためのリポジトリ  
 どうせなら、contribute にカウントされてほしいため、新たに作り直した。  
+
+[もともとのリポジトリ](https://github.com/shellgei/shellgei160)
